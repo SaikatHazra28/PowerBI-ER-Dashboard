@@ -62,7 +62,7 @@ The dashboard analyzes key operational metrics and patient data to help hospital
 
 ## 🔗 Project Showcase
 
-- **LinkedIn Post**: [View on LinkedIn]([https://www.linkedin.com/in/saikat-hazra-0089a622b/](https://www.linkedin.com/posts/saikat-hazra-0089a622b_powerbi-dataanalytics-hospitaldashboard-activity-7284562566289244160-aI7h?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmiLogBvaym25gNAEUc8pwhdIDfXSr_yio))
+- **LinkedIn Post**: [View on LinkedIn]([https://www.linkedin.com/in/saikat-hazra-0089a622b/](https://www.linkedin.com/posts/saikat-hazra-0089a622b_powerbi-dataanalytics-hospitaldashboard-activity-7284562566289244160-aI7h?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmiLogBvaym25gNAEUc8pwhdIDfXSr_yio)
 - **GitHub Repository**: [github.com/YOUR-USERNAME/PowerBI-ER-Dashboard](https://github.com/YOUR-USERNAME/PowerBI-ER-Dashboard)
 
 ---
