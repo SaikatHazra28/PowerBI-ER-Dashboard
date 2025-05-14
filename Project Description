@@ -1,0 +1,22 @@
+📊 Project: Emergency Room Dashboard
+📁 Tool: Microsoft Power BI
+📈 Data Source: Excel (.xlsx)
+
+✅ Description:
+This dashboard analyzes hospital emergency room operations and patient experience metrics.
+
+Dashboards Included:
+1. Monthly View – Patient trends, age/gender/race analysis
+2. Consolidated View – Overall performance summary
+3. Patient Details – Patient-level insights
+4. Key Takeaways – Final insights and suggestions
+
+🧠 KPIs Tracked:
+- Total patients per day
+- Average wait time
+- Satisfaction score trends
+- Referral counts by department
+
+🎯 Goal:
+To support decision-makers in improving service quality, efficiency, and patient outcomes.
+
